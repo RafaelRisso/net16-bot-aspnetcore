@@ -22,7 +22,7 @@ namespace SimpleBotCore.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello World";
+            return "Hello World Rafael";
         }
 
         // POST api/messages
